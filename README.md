@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX and UI design.
 - 🌱 I’m currently learning JavaScript with BloomTech Institute of Technology!!
 - 💞️ I’m looking to collaborate on Notion or cool CSS ideas.
-- 📫 Shoot me an email at arbormatos@icloud.com!
+- 📫 Shoot me an email at arbyrd33@gmail.com!
 
 <!---
 Arbyrd33/Arbyrd33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
